@@ -16,3 +16,5 @@ class Artifact(Actor):
             points = -1
             
         return points
+    
+    # pie
